@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ラッキー・ストライク",
+  "base_artist": "Maroon 5",
+  "createdAt": "2025-12-14T07:58:04.849431Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lucky Strike",
+      "artist": "Maroon 5",
+      "has_synced": false,
+      "path": "select/pl_01_Lucky_Strike_Maroon_5.txt"
+    }
+  ]
+}
